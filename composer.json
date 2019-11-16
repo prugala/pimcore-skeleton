@@ -8,6 +8,7 @@
   },
   "require": {
     "php": ">=7.1",
+    "monolog/monolog": "^1.17",
     "coreshop/pimcore-bundle": "^2.1",
     "coreshop/seo-bundle": "^2.1",
     "dachcom-digital/toolbox": "^3",
